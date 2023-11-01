@@ -1,0 +1,20 @@
+.background{
+    background-color: #AD0000;
+}
+.textbanner{
+    color: white;
+}
+  .textcenter{
+      text-align: center
+}
+  .textnoidung{
+    font-size: 13px;
+}
+.textheader{
+    font-size: 14px;
+   padding: 5px;
+   text-align: center;
+   align-self: center;
+    
+    font-weight: bold;
+}

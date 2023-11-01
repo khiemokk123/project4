@@ -1,0 +1,67 @@
+.background{
+    background-color: #AD0000;
+}
+.colorchu{
+    color: white;
+}
+.cangiua{
+    text-align: center
+}
+.size{
+    font-size: 13px;
+}
+.header{
+    font-size: 14px;
+    padding: 5px;
+    text-align: center;
+    align-self: center;   
+    font-weight: bold;
+}
+.tim{
+    position: relative;
+    padding: 8px;
+    background-color: rgba(0,0,0,.2);
+    border-radius: 12px;
+    max-width: 100%;
+}
+.colortext{
+    color: white;
+}
+.tieude{
+    color:red;
+    font-weight: bold;
+}
+.chugiua{
+    align-self: center;
+}
+.hinh{
+    top: 18%; 
+}
+.textday{
+    font-size: 8px;
+}
+.hinh1{
+    top: 10%;
+    margin-bottom: 10%;
+    padding-top: 10%;
+}
+.vien{
+    box-shadow: 0.4rem 0.4rem 0.45rem rgb(0,0,30,0.3);
+}
+.size1{
+    font-size: 11px;
+}
+.sodaypc{
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.giahot {
+    color: red;
+    font-weight: bold;
+}
+.giamgia {
+    color: #9f9f9f;
+    text-decoration-line: line-through;
+    font-size: 80%;
+}
